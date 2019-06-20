@@ -435,4 +435,5 @@ rate_index = tf.reduce_max(tf.where(tf.greater_equal(global_step, boundaries),
                                       [0] * num_boundaries))
 ```
 
-[Ref: Tensorflow Issue#3705](https://github.com/tensorflow/models/issues/3705#issuecomment-375563179)
+[Ref: Tensorflow Issue#3705](https://github.com/tensorflow/models/issues/3705#issuecomment-375563179)#   t e s t - d o o p r a  
+ 
