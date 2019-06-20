@@ -39,7 +39,7 @@ def class_text_to_int(row_label):
         return 4
     elif row_label == '5':
         return 5
-    elif row_label == '5':
+    elif row_label == '6':
         return 6
     else:
         None
