@@ -42,7 +42,7 @@ def class_text_to_int(row_label):
     elif row_label == 'prahok':
         return 6
     else:
-        None
+        return 0
 
 
 def split(df, group):
