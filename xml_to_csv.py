@@ -10,7 +10,7 @@ def xml_to_csv(path):
         tree = ET.parse(xml_file)
         root = tree.getroot()
         for member in root.findall('object'):
-            value = (root.find('filename').text + str('.jpg'),
+            value = (root.find('filename').text,
                      int(root.find('size')[0].text),
                      int(root.find('size')[1].text),
                      member[0].text,
@@ -31,5 +31,6 @@ def main():
         xml_df = xml_to_csv(image_path)
         xml_df.to_csv(('images/' + folder + '_labels.csv'), index=None)
         print('Successfully converted xml to csv.')
+
 
 main()
