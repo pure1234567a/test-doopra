@@ -33,13 +33,13 @@ def class_text_to_int(row_label):
         return 1
     elif row_label == 'somdejpimyai':
         return 2
-    elif row_label == '3':
+    elif row_label == 'prasam':
         return 3
-    elif row_label == '4':
+    elif row_label == 'prasii':
         return 4
-    elif row_label == '5':
+    elif row_label == 'prahah':
         return 5
-    elif row_label == '6':
+    elif row_label == 'prahok':
         return 6
     else:
         None
