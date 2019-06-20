@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test</folder>
-	<filename>8181635-12744.jpg</filename>
-	<path>C:\Users\ASUS\Desktop\iot\test-doopra\images\test\8181635-12744.jpg</path>
+	<folder>train</folder>
+	<filename>cam_image3.jpg</filename>
+	<path>H:\web\TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10\images\train\cam_image3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>4</name>
+		<name>pra</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>47</xmin>
-			<ymin>10</ymin>
-			<xmax>516</xmax>
-			<ymax>690</ymax>
+			<ymin>20</ymin>
+			<xmax>517</xmax>
+			<ymax>683</ymax>
 		</bndbox>
 	</object>
 </annotation>

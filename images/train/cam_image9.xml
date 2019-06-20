@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>3101703004186_b_0.jpg</filename>
-	<path>C:\Users\ASUS\Desktop\iot\test-doopra\images\train\3101703004186_b_0.jpg</path>
+	<filename>cam_image9.jpg</filename>
+	<path>H:\web\TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10\images\train\cam_image9.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,18 @@
 			<ymin>8</ymin>
 			<xmax>274</xmax>
 			<ymax>284</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>loungporkruy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>18</ymin>
+			<xmax>268</xmax>
+			<ymax>283</ymax>
 		</bndbox>
 	</object>
 </annotation>

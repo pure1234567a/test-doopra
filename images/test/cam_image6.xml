@@ -1,25 +1,25 @@
 <annotation>
 	<folder>train</folder>
-	<filename>o55nl02j1bzLMJh8EV8-o.jpg</filename>
-	<path>C:\Users\ASUS\Desktop\iot\TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10\images\train\o55nl02j1bzLMJh8EV8-o.jpg</path>
+	<filename>cam_image6.jpg</filename>
+	<path>H:\web\TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10\images\train\cam_image6.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>565</width>
+		<width>582</width>
 		<height>768</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>1</name>
+		<name>somdejwadrakung</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>26</xmin>
-			<ymin>15</ymin>
-			<xmax>549</xmax>
+			<xmin>46</xmin>
+			<ymin>22</ymin>
+			<xmax>541</xmax>
 			<ymax>751</ymax>
 		</bndbox>
 	</object>

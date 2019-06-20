@@ -29,20 +29,20 @@ FLAGS = flags.FLAGS
 
 # TO-DO replace this with label map
 def class_text_to_int(row_label):
-    if row_label == 'somdejwatrakung':
+    if row_label == 'loungporkoon':
         return 1
-    elif row_label == 'somdejpimyai':
+    elif row_label == 'pra':
         return 2
-    elif row_label == 'prasam':
+    elif row_label == 'loungporkruy':
         return 3
-    elif row_label == 'prasii':
+    elif row_label == 'somdejwadrakung':
         return 4
-    elif row_label == 'prahah':
+    elif row_label == 'king':
         return 5
-    elif row_label == 'prahok':
+    elif row_label == 'ace':
         return 6
     else:
-        return 0
+        None
 
 
 def split(df, group):
