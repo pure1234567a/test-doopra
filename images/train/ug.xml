@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>ug.jpg</filename>
+	<path>C:\Users\ASUS\Desktop\iot\test-doopra\images\train\ug.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>748</width>
+		<height>731</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>31</ymin>
+			<xmax>708</xmax>
+			<ymax>680</ymax>
+		</bndbox>
+	</object>
+</annotation>

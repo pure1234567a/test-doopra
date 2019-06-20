@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>8181635-12744.jpg</filename>
+	<path>C:\Users\ASUS\Desktop\iot\test-doopra\images\train\8181635-12744.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>560</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>14</ymin>
+			<xmax>518</xmax>
+			<ymax>686</ymax>
+		</bndbox>
+	</object>
+</annotation>
